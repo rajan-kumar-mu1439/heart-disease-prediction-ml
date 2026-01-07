@@ -94,6 +94,9 @@ Environment: Jupyter Notebook
 
 Accuracy: ~85% 
 
+![streamlit1_page-0001](https://github.com/user-attachments/assets/0c97eb17-fee4-4981-bb6a-1c576a27bf1e)
+
+
 ▶️ How to Run This Project
 1.Clone the repository
 git clone https://github.com/rajan-kumar-mu1439/heart-disease-prediction-ml.git
