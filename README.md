@@ -95,16 +95,16 @@ Environment: Jupyter Notebook
 Accuracy: ~85% 
 
 ▶️ How to Run This Project
-<h1>Clone the repository</h1>
+1.Clone the repository
 git clone https://github.com/rajan-kumar-mu1439/heart-disease-prediction-ml.git
 
-<h1>Navigate to project directory</h1>
+2.Navigate to project directory
 cd heart-disease-prediction-ml
 
-<h1>Install dependencies</h1>
+3.Install dependencies
 pip install -python, numpy, pandas, matplotlib, seaborn, scikit learn
 
-<h1>Open Jupyter Notebook</h1>
+4.Open Jupyter Notebook
 jupyter notebook
 
 
